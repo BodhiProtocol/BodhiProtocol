@@ -4,6 +4,7 @@
 
 I bridge the gap between business problems and working products — no traditional coding background, just curiosity, and a bias for shipping.
 
+https://www.linkedin.com/in/surya-singh-7b6ab144/
 ---
 
 ## 🚀 Live Projects
