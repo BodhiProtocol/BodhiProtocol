@@ -2,9 +2,10 @@
 
 **IT Business Analyst** who builds with AI.
 
-I bridge the gap between business problems and working products — no traditional coding background, just curiosity, and a bias for shipping.
+I bridge the gap between business problems and working products — no traditional coding background, just curiosity, Claude AI, and a bias for shipping.
 
-https://www.linkedin.com/in/surya-singh-7b6ab144/
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-singh-7b6ab144/)
+
 ---
 
 ## 🚀 Live Projects
@@ -52,28 +53,4 @@ https://www.linkedin.com/in/surya-singh-7b6ab144/
 
 > *"The barrier to building has never been lower."*
 
-# BodhiProtocol
-
-**Building intelligent browser games, offline-first experiments, and playful AI-native tools.**
-
-BodhiProtocol is a small experimental studio focused on lightweight browser games, learning tools, and interactive systems. The goal is to build experiences that are simple to open, fun to use, and polished enough to feel intentional — with minimal dependencies and a strong bias toward offline-first design.
-
-## Current Projects
-
-- 🎯 **Whack-a-Mole** — Classic arcade browser game with kid and adult modes, built for fast offline play.
-- 🧠 **Flashcard App** — A minimalist learning tool combining spaced repetition flashcards with a playful mini-game layer.
-- 🐍 **Snake Game** — A clean implementation of the classic Snake game with score tracking and offline support.
-
-## What I care about
-
-- Browser-native experiences
-- Lightweight architecture
-- Simple, replayable gameplay
-- Learning through play
-- AI-assisted creative tooling
-- Fast, dependency-light builds
-
-## Philosophy
-
-Build small. Make it polished. Keep it playable.
-** MIT Licensed**
+**Built with [Claude AI](https://claude.ai) · Open source · MIT Licensed**
