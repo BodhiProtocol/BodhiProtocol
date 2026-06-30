@@ -10,6 +10,14 @@ I bridge the gap between business problems and working products — no tradition
 
 ## 🚀 Live Projects
 
+### 💣 Minesweeper
+> Classic Minesweeper with Kids & Adult modes. First click always safe. Best time tracker. Think. Flag. Survive.
+
+[![Play](https://img.shields.io/badge/Play%20Now-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/minesweeper/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/minesweeper)
+
+---
+
 ### 🦔 Whack-a-Mole
 > Classic arcade game with Kid & Adult modes. Built for fun — especially for the little ones.
 
@@ -39,7 +47,7 @@ I bridge the gap between business problems and working products — no tradition
 | | |
 |---|---|
 | **Role** | IT Business Analyst |
-| **Approach** | Zero prior coding experience → ship real products with AI |
+| **Approach** | Zero prior coding experience → 4 shipped products with AI |
 | **Stack** | Vanilla HTML · CSS · JavaScript · No frameworks |
 | **Philosophy** | Simple. Fast. Offline-first. No dependencies. |
 
