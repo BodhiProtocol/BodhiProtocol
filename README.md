@@ -10,6 +10,14 @@ I bridge the gap between business problems and working products — no tradition
 
 ## 🚀 Live Projects
 
+### 📝 Wordle
+> Guess the hidden word. Kids mode: 3 letters, 8 tries, 1 hint. Adult mode: 5 letters, 6 tries, no mercy. Guess. Think. Win.
+
+[![Play](https://img.shields.io/badge/Play%20Now-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/wordle/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/wordle)
+
+---
+
 ### 🎮 2048
 > Merge tiles and reach your target. Kids mode wins at 256 with an Undo button — Adult mode goes for 2048. Includes origin story & strategy tips. Merge. Think. Win.
 
@@ -55,7 +63,7 @@ I bridge the gap between business problems and working products — no tradition
 | | |
 |---|---|
 | **Role** | IT Business Analyst |
-| **Approach** | Zero prior coding experience → 5 shipped products with AI |
+| **Approach** | Zero prior coding experience → 6 shipped products with AI |
 | **Stack** | Vanilla HTML · CSS · JavaScript · No frameworks |
 | **Philosophy** | Simple. Fast. Offline-first. No dependencies. |
 
