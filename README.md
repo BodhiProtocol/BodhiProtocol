@@ -50,6 +50,14 @@ I bridge the gap between business problems and working products — no tradition
 
 ---
 
+### 🏍️ Bike Race
+> Top-down bike racer inspired by Road Rash. Kids mode: slow & forgiving. Adult mode: fast, speed ramps up, one crash ends it. Dodge · Speed · Survive.
+
+[![Play](https://img.shields.io/badge/Play%20Now-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/bike-race/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/bike-race)
+
+---
+
 ### 📚 Flashcard Learning App
 > Spaced repetition flashcard app. Study smarter — pre-loaded with Indian Capitals quiz. 100% offline, zero data collection.
 
@@ -63,7 +71,7 @@ I bridge the gap between business problems and working products — no tradition
 | | |
 |---|---|
 | **Role** | IT Business Analyst |
-| **Approach** | Zero prior coding experience → 6 shipped products with AI |
+| **Approach** | Zero prior coding experience → 7 shipped products with AI |
 | **Stack** | Vanilla HTML · CSS · JavaScript · No frameworks |
 | **Philosophy** | Simple. Fast. Offline-first. No dependencies. |
 
