@@ -74,12 +74,28 @@ I bridge the gap between business problems and working products — no tradition
 
 ---
 
+### 🫁 Breathe
+> Guided breathing timer. 4-7-8 technique & box breathing. Animated circle, day streak tracker. PWA — add to home screen, works offline.
+
+[![Open App](https://img.shields.io/badge/Open%20App-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/breathe/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/breathe)
+
+---
+
+### 🟦 Paper.io
+> Capture territory, close loops, cut opponents. Kids mode: no death. Adult mode: one hit ends it. Dodge · Capture · Dominate.
+
+[![Play](https://img.shields.io/badge/Play%20Now-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/paper-io/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/paper-io)
+
+---
+
 ## 🛠️ How I Build
 
 | | |
 |---|---|
 | **Role** | IT Business Analyst |
-| **Approach** | Zero prior coding experience → 8 shipped products with AI |
+| **Approach** | Zero prior coding experience → 10 shipped products with AI |
 | **Stack** | Vanilla HTML · CSS · JavaScript · No frameworks |
 | **Philosophy** | Simple. Fast. Offline-first. No dependencies. |
 
