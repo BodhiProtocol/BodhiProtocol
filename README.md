@@ -106,12 +106,20 @@ I bridge the gap between business problems and working products — no tradition
 
 ---
 
+### 🫧 Bubble Shooter
+> Aim, shoot, match 3+ bubbles to pop them. Kid mode: relaxed, no ceiling pressure. Adult mode: ceiling drops every 8 shots for a real challenge.
+
+[![Play](https://img.shields.io/badge/Play%20Now-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/bubble-shooter/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/bubble-shooter)
+
+---
+
 ## 🛠️ How I Build
 
 | | |
 |---|---|
 | **Role** | IT Business Analyst |
-| **Approach** | Zero prior coding experience → 11 shipped products with AI |
+| **Approach** | Zero prior coding experience → 12 shipped products with AI |
 | **Stack** | Vanilla HTML · CSS · JavaScript · No frameworks |
 | **Philosophy** | Simple. Fast. Offline-first. No dependencies. |
 
