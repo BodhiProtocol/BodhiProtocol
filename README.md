@@ -98,12 +98,20 @@ I bridge the gap between business problems and working products — no tradition
 
 ---
 
+### 🚀 Space Shooter
+> Top-down space shooter. 3 enemy types, boss fights every 3 waves, power-ups (rapid fire, spread shot, shield). Web Audio sounds. Kids mode: permanent shield, no game over.
+
+[![Play](https://img.shields.io/badge/Play%20Now-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/space-shooter/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/space-shooter)
+
+---
+
 ## 🛠️ How I Build
 
 | | |
 |---|---|
 | **Role** | IT Business Analyst |
-| **Approach** | Zero prior coding experience → 10 shipped products with AI |
+| **Approach** | Zero prior coding experience → 11 shipped products with AI |
 | **Stack** | Vanilla HTML · CSS · JavaScript · No frameworks |
 | **Philosophy** | Simple. Fast. Offline-first. No dependencies. |
 
