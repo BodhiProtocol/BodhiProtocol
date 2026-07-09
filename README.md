@@ -90,6 +90,14 @@ I bridge the gap between business problems and working products — no tradition
 
 ---
 
+### ⚖️ Regulatory Acronym Map
+> 100 capital markets regulations and regulators — MiFID II, Basel III, KYC, the SEC — decoded into plain language, filed by category and region, with a note on why each one matters to a BA.
+
+[![Open App](https://img.shields.io/badge/Open%20App-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/regulatory-acronym-map/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/regulatory-acronym-map)
+
+---
+
 ## 🛠️ How I Build
 
 | | |
