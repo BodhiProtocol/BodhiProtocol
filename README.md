@@ -98,6 +98,22 @@ I bridge the gap between business problems and working products — no tradition
 
 ---
 
+### 👻 Pac-Man
+> Classic Pac-Man. Navigate the maze, eat dots, grab power pellets, dodge 4 ghosts. Kids mode: 5 lives. Adult mode: 3 lives, faster ghosts.
+
+[![Play](https://img.shields.io/badge/Play%20Now-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/pac-man/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/pac-man)
+
+---
+
+### 🧱 Breakout
+> Classic brick-breaker. Multi-row bricks with HP, power-ups (wide paddle, slow ball), Web Audio pings. Kids mode: 5 lives, wider paddle. Adult mode: 3 lives, speed ramps each level.
+
+[![Play](https://img.shields.io/badge/Play%20Now-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/breakout/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/breakout)
+
+---
+
 ### 🚀 Space Shooter
 > Top-down space shooter. 3 enemy types, boss fights every 3 waves, power-ups (rapid fire, spread shot, shield). Web Audio sounds. Kids mode: permanent shield, no game over.
 
@@ -119,7 +135,7 @@ I bridge the gap between business problems and working products — no tradition
 | | |
 |---|---|
 | **Role** | IT Business Analyst |
-| **Approach** | Zero prior coding experience → 12 shipped products with AI |
+| **Approach** | Zero prior coding experience → 13 shipped products with AI |
 | **Stack** | Vanilla HTML · CSS · JavaScript · No frameworks |
 | **Philosophy** | Simple. Fast. Offline-first. No dependencies. |
 
