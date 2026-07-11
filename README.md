@@ -130,6 +130,14 @@ I bridge the gap between business problems and working products — no tradition
 
 ---
 
+### 📝 Requirements-to-User-Story Translator
+> Every requirement hides a story. Paste a messy stakeholder sentence, get a formatted user story and Given/When/Then acceptance criteria back.
+
+[![Open App](https://img.shields.io/badge/Open%20App-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/requirements-translator/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/requirements-translator)
+
+---
+
 ### 👻 Pac-Man
 > Classic Pac-Man. Navigate the maze, eat dots, grab power pellets, dodge 4 ghosts. Kids mode: 5 lives. Adult mode: 3 lives, faster ghosts.
 
@@ -162,6 +170,22 @@ I bridge the gap between business problems and working products — no tradition
 
 ---
 
+### 📦 Crate Blast
+> Pull back, launch, knock down crates and pop every orb. Physics slingshot, 5 levels.
+
+[![Play](https://img.shields.io/badge/Play%20Now-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/crate-blast/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/crate-blast)
+
+---
+
+### 🍬 Candy Match
+> Swap, match, cascade — striped candies, color bombs, 5 levels.
+
+[![Play](https://img.shields.io/badge/Play%20Now-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/candy-match/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/candy-match)
+
+---
+
 ### 🧩 Tetris
 > Classic Tetris. 7-bag randomizer, ghost piece, next-piece preview, hard/soft drop. Kids mode: slower drop, board clears instead of game over. Adult mode: standard game-over.
 
@@ -183,7 +207,7 @@ I bridge the gap between business problems and working products — no tradition
 | | |
 |---|---|
 | **Role** | IT Business Analyst |
-| **Approach** | Zero prior coding experience → 13 shipped products with AI |
+| **Approach** | Zero prior coding experience → 24 shipped products with AI |
 | **Stack** | Vanilla HTML · CSS · JavaScript · No frameworks |
 | **Philosophy** | Simple. Fast. Offline-first. No dependencies. |
 
