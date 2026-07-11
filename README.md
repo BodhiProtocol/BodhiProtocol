@@ -130,6 +130,14 @@ I bridge the gap between business problems and working products — no tradition
 
 ---
 
+### 🤖 LLM Wiki
+> 24 core LLM concepts — tokens, prompting, RAG, embeddings, agents, MCP — decoded into plain language, with a note on why each one matters when building with AI.
+
+[![Open App](https://img.shields.io/badge/Open%20App-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/llm-wiki/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/llm-wiki)
+
+---
+
 ## 🛠️ How I Build
 
 | | |
