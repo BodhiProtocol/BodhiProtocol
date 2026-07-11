@@ -90,6 +90,38 @@ I bridge the gap between business problems and working products — no tradition
 
 ---
 
+### 📊 Trade Lifecycle Explorer
+> Six pillars hold up every capital market on earth. Touch a petal to open one, then walk the trade lifecycle stage by stage.
+
+[![Open App](https://img.shields.io/badge/Open%20App-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/trade-lifecycle-explorer/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/trade-lifecycle-explorer)
+
+---
+
+### 📖 Capital Markets Jargon Decoder
+> Capital markets jargon, decoded into plain language with visual diagrams — no signup, no catch.
+
+[![Open App](https://img.shields.io/badge/Open%20App-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/jargon-decoder/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/jargon-decoder)
+
+---
+
+### 🧭 Capital Markets Blueprint Explorer
+> One trade, fifty ideas, one page. Every concept in the Capital Markets curriculum, from why markets exist to the future of investment banking.
+
+[![Open App](https://img.shields.io/badge/Open%20App-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/capital-markets-blueprint-explorer/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/capital-markets-blueprint-explorer)
+
+---
+
+### 🧭 Business Analysis Blueprint Explorer
+> Fifty Business Analysis blueprints, browsable by season — search + filter, click to reveal each one's core question.
+
+[![Open App](https://img.shields.io/badge/Open%20App-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/business-analysis-blueprint-explorer/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/business-analysis-blueprint-explorer)
+
+---
+
 ### ⚖️ Regulatory Acronym Map
 > 100 capital markets regulations and regulators — MiFID II, Basel III, KYC, the SEC — decoded into plain language, filed by category and region, with a note on why each one matters to a BA.
 
@@ -127,6 +159,14 @@ I bridge the gap between business problems and working products — no tradition
 
 [![Play](https://img.shields.io/badge/Play%20Now-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/bubble-shooter/)
 [![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/bubble-shooter)
+
+---
+
+### 🧩 Tetris
+> Classic Tetris. 7-bag randomizer, ghost piece, next-piece preview, hard/soft drop. Kids mode: slower drop, board clears instead of game over. Adult mode: standard game-over.
+
+[![Play](https://img.shields.io/badge/Play%20Now-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/tetris/)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/tetris)
 
 ---
 
