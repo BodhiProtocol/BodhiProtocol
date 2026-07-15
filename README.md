@@ -8,6 +8,15 @@ I bridge the gap between business problems and working products — no tradition
 
 ---
 
+## 🌐 BodhiProtocol.com
+
+> The flagship site — a premium knowledge platform for understanding complex systems. Essays, visual explanations (Project Lighthouse), and an interactive Labs catalog spanning AI, capital markets, business analysis, and economics.
+
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-live-1D9E75?style=flat-square)](https://bodhiprotocol.com)
+[![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/bodhiprotocol-site)
+
+---
+
 ## 🚀 Live Projects
 
 ### 📝 Wordle
@@ -99,9 +108,9 @@ I bridge the gap between business problems and working products — no tradition
 ---
 
 ### 📖 Capital Markets Jargon Decoder
-> Capital markets jargon, decoded into plain language with visual diagrams — no signup, no catch.
+> 229 capital markets terms, decoded into plain language with visual diagrams. Dashboard experience with learning paths, flashcards, a visual diagram library, bookmarks, and real streak/progress tracking — no signup, no catch, no server.
 
-[![Open App](https://img.shields.io/badge/Open%20App-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/jargon-decoder/)
+[![Open App](https://img.shields.io/badge/Open%20App-live-1D9E75?style=flat-square)](https://bodhiprotocol.github.io/jargon-decoder/v2.html)
 [![Repo](https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/BodhiProtocol/jargon-decoder)
 
 ---
