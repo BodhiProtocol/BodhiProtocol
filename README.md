@@ -5,6 +5,7 @@
 I bridge the gap between business problems and working products — no traditional coding background, just curiosity, Claude AI, and a bias for shipping.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-singh-7b6ab144/)
+![Profile Views](https://komarev.com/ghpvc/?username=BodhiProtocol&label=Profile%20Views&color=1D9E75&style=flat-square)
 
 ---
 
